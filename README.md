@@ -11,5 +11,9 @@ Then it compares both choices and declares the winner.
 - Random Module
 - Basic Game Logic
 
+To run use python
+Run the program using:
+python filename.py
+
 
 Developed by Ehtisham
